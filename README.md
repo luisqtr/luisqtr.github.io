@@ -1,3 +1,45 @@
+# Personal Webpge
+
+<https://luisqtr.com> and <https://luisqtr.github.io/>
+
+**Luis Quintero**
+
+## Installation
+
+*For Windows:* 
+
+1. Install Ruby+DevKit [v3.4.1][Ruby] (with the dependencies requested in the MSYS prompt). 
+2. Install the gems: `$ gem install jekyll bundler`
+3. Install specific gems for project with bundler: `$ bundle install`
+
+## Execution
+
+Once the gems are installed, test locally instead of deploying on GitHub every change: 
+
+1. Run `$ bundle exec jekyll serve`
+2. Open a browser at <http://localhost:4000>
+
+## Updating website
+
+When finished editing, update the html for categories and tabs. Currently:
+
+| categories                   | subcategory              | tags                                    |
+| ---------------------------- | ------------------------ | --------------------------------------- |
+| `notes, research, education` | `dev, writing, projects` | `XR, ML, physio, unity, python, others` |
+
+## Other resources
+
+- Jekyll template: <https://github.com/cotes2020/jekyll-theme-chirpy>
+- Template for Academic purposes: <https://github.com/alshedivat/al-folio>
+
+## License
+
+This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
+
+---
+
+# Documentation from Chirpy
+
 <!-- markdownlint-disable-next-line -->
 <div align="center">
 

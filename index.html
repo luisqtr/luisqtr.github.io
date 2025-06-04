@@ -2,3 +2,88 @@
 layout: home
 # Index page
 ---
+
+
+<div class="d-flex justify-content-center">
+<h1 class="dynamic-title">
+  {{site.title}}
+</h1>
+</div>
+
+<hr>
+
+<div class="row justify-content-center">
+  <div class="col-4 col-lg-4 col-xl-4">
+    <!-- <div id="avatar" class="d-flex align-content-center"> -->
+      <img style="width:100%; border-radius: 50%" src="{{site.baseurl}}{{site.avatar}}">
+    <!-- </div> -->
+  </div> <!-- #page -->
+  <div class="col-8 col-lg-8 col-xl-8">
+    <p align="justify">
+      Tenure-track Assistant Professor at Stockholm University in the <a target="_blank" href="https://dsv.su.se/">Department of Computer and Systems Sciences (DSV)</a>.
+      His research focuses on behavioral user modeling in immersive experiences (XR/VR/MR/AR), with a primary interest in the use of time-series machine learning techniques on physiological data from wearables and adaptive loops for personalization in immersive systems.
+      <br><br>
+      Cofounder and CTO at <a target="_blank" href="https://portalsense.com/">PortalSense</a>, a startup based in Colombia onboarding real estate businesses in interactive architectural visualization and digital transformation with immersive 3D technologies.
+      <br><br>
+    </p>
+  </div> <!-- #page -->
+
+  📌 Stockholm (Sweden) - 🏡 Manizales (Colombia)
+
+</div><!-- .col-12 -->
+
+<br>
+
+<h3 class="dynamic-title d-flex justify-content-center">
+  Contact:
+</h3>
+
+<div class="d-flex justify-content-center">
+  <ul class="list-inline mb-12">
+    <li class="list-inline-item">
+      {% assign email = site.social.email | split: '@' %}
+        <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))"><i class="fa fa-envelope"></i> Email </a>
+    </li>
+    <li class="list-inline-item"> 
+      <a href="https://linkedin.com/in/{{ site.linkedin.username }}"> <i class="fab fa-linkedin-in"></i> LinkedIn </a>
+      </li>
+    <li class="list-inline-item"> 
+      <a href="https://twitter.com/{{ site.twitter.username }}"> <i class="fab fa-x-twitter"></i> Twitter-X </a>
+      </li>
+  </ul>
+</div>
+
+<h3 class="dynamic-title d-flex justify-content-center">
+  Other profiles:
+</h3>
+
+<div class="d-flex justify-content-center">
+  <ul class="list-inline mb-12">
+    <li class="list-inline-item"> 
+      <a href="https://github.com/{{ site.github.username }}"> <i class="fab fa-github"></i> GitHub </a>
+    </li>
+    <li class="list-inline-item"> 
+    <a href="https://scholar.google.com/citations?user=RYg_PGQAAAAJ"> <i class="fab fa-google"></i> Scholar </a>
+    </li>
+    <li class="list-inline-item">
+    <a href="https://www.researchgate.net/profile/Luis-Quintero-4"> <i class="fab fa-researchgate"></i> ResearchGate </a>
+    </li>
+</ul>
+</div>
+
+<div class="d-flex justify-content-center">
+  <ul class="list-inline mb-12">
+    <li class="list-inline-item"> 
+    <a href="https://orcid.org/0000-0002-6047-2793"> <i class="fab fa-orcid"></i> ORCiD </a>
+    </li>
+    <li class="list-inline-item">
+      <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001553941"> <i class="fa fa-link"></i> CvLAC </a>
+    </li>
+    <li class="list-inline-item">
+      <a href="https://www.su.se/english/profiles/luva3178"> <i class="fa fa-link"></i> SU </a>
+    </li>
+</ul>
+</div>
+
+
+<hr>
