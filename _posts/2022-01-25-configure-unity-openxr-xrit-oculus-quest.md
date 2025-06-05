@@ -1,9 +1,10 @@
 ---
 title: Developing XR applications with Unity using OpenXR, XRIT and Oculus Quest
-author: Luis Quintero
+description: >-
+  Get Started with OpenXR dev [Outdated]
+author: quintero
 date: 2022-01-25 18:00:00 +0100
 categories: [education, dev]
-# image: /assets/img/portfolio/PortalSense.jpg
 tags: [XR, unity]
 ---
 
@@ -71,23 +72,23 @@ This was tested with built-in pipeline but should work for URP and HDRP:
 - MRTK: https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/ 
 
 ### UX/UI for XR
-- http://www.vrhig.com/
+- https://www.vrhig.com/
 - https://www.uxofvr.com/
 
 ### Books
-- LaValle S. M., *Virtual Reality*, Cambridge University Press, 2017.[Free download][http://vr.cs.uiuc.edu/]
-- Jerald J., *The VR Book - Human-Centred Design for Virtual Reality*, ACM Books, 2016 [Buy here](http://thevrbook.net/)
+- LaValle S. M., *Virtual Reality*, Cambridge University Press, 2017.[Free download][https://vr.cs.uiuc.edu/]
+- Jerald J., *The VR Book - Human-Centred Design for Virtual Reality*, ACM Books, 2016 [Buy here](https://thevrbook.net/)
 
 
 ## Performance Considerations for Standalone Oculus Quest
 
 According to NVIDIA, rendering for VR is at least [7 times more demanding](https://pt.slideshare.net/NVIDIA/vr-base-camp-scaling-the-next-major-platform) than rendering for desktop gaming.
 
-![VR vs. non-VR]({{site.baseurl}}/assets/posts/vr/desktop-vr-nvidia.jpg){:width="100%"}
+![VR vs. non-VR]({{site.url}}/assets/posts/vr/desktop-vr-nvidia.jpg){:width="100%"}
 
 Rendering differences between desktop VR and mobile standalone VR. Taken from [this video.](https://www.youtube.com/watch?v=-DLSqfftsnE).
 
-![VRComparison]({{site.baseurl}}/assets/posts/vr/Onward_Quest_vs_PC_VR_Graphics_Comparison.gif)
+![VRComparison]({{site.url}}/assets/posts/vr/Onward_Quest_vs_PC_VR_Graphics_Comparison.gif)
 
 **Target:** The recommendation is to reach minimum 72FPS to guarantee comfort, the profiler should show maximum `500.000` triangles/frame.
 

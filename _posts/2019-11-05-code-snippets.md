@@ -1,7 +1,7 @@
 ---
 title: Frequent Code Snippets
-author: Luis Quintero
-date: 2022-11-05 18:00:00 +0100
+author: quintero
+date: 2019-11-05 18:00:00 +0100
 categories: [notes, dev]
 tags: [others]
 toc: true
@@ -265,7 +265,7 @@ Install jupyter notebooks from Python pip
 
 `pip install jupyter`
 
-Download and install the program [Pandoc](www.pandoc.org). Requires $$\TeX$$ installation (MiKTeX in Windows) to be able to compile tex files and generate PDF (using XeLaTeX):
+Download and install the program [Pandoc](https://pandoc.org). Requires $$\TeX$$ installation (MiKTeX in Windows) to be able to compile tex files and generate PDF (using XeLaTeX):
 
 To convert a jupyter notebook, run the command window:
 

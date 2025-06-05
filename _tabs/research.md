@@ -33,13 +33,13 @@ Gnacek M, **Quintero L**, Mavridou I _et al._ AVDOS-VR: Affective Video Database
 
 Bernsland M, Moshfegh A, Lindén K, Bajin S, **Quintero L**, Solsona J, and Rostami A. CS:NO – an Extended Reality Experience for Cyber Security Education. *ACM International Conference on Interactive Media Experiences (IMX '22)*. 287–292. 2022. <https://doi.org/10.1145/3505284.3532971>
 
-**Quintero L**, Papapetrou P,  Muñoz JE, De Mooij J, and Gaebler M. Excite-O-Meter: an Open-Source Unity Plugin to Analyze Heart Activity and Movement Trajectories in Custom VR Environments. *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VR - Workshops)*, (virtual). 2022. <https://doi.org/10.1109/VRW55335.2022.00017> <br> 🔍[See more...]({{site.baseurl}}/projects/ExciteOMeter)
+**Quintero L**, Papapetrou P,  Muñoz JE, De Mooij J, and Gaebler M. Excite-O-Meter: an Open-Source Unity Plugin to Analyze Heart Activity and Movement Trajectories in Custom VR Environments. *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VR - Workshops)*, (virtual). 2022. <https://doi.org/10.1109/VRW55335.2022.00017> <br> 🔍[See more...]({{site.url}}/projects/ExciteOMeter)
 
 ## 2021
 
-**Quintero L**, Papapetrou P,  Hollmén J, Fors U. Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods. *4th International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, Taichung, Taiwan (virtual). 2021. <https://doi.org/10.1109/AIVR52153.2021.00015> <br>🔍[See more...]({{site.baseurl}}/projects/KinemaTS)
+**Quintero L**, Papapetrou P,  Hollmén J, Fors U. Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods. *4th International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, Taichung, Taiwan (virtual). 2021. <https://doi.org/10.1109/AIVR52153.2021.00015> <br>🔍[See more...]({{site.url}}/projects/KinemaTS)
 
-**Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bari, Italy (virtual). 2021. <https://doi.org/10.1109/ISMAR52148.2021.00052> <br>🔍[See more...]({{site.baseurl}}/projects/ExciteOMeter)
+**Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bari, Italy (virtual). 2021. <https://doi.org/10.1109/ISMAR52148.2021.00052> <br>🔍[See more...]({{site.url}}/projects/ExciteOMeter)
 
 Muñoz JE, **Quintero L**, Stephens CL and Pope AT. Taxonomy of Physiologically Adaptive Systems and Design Framework. *International Conference on Human-Computer Interaction (HCII 2021)*, Adaptive Instructional Systems, Lecture Notes in Computer Science, pp 559-576. 2021. <https://doi.org/10.1007/978-3-030-77857-6_40>
 
@@ -48,11 +48,11 @@ Muñoz JE, **Quintero L**, Stephens CL and Pope AT. Taxonomy of Physiologically 
 **Quintero L**. Understanding research methodologies when combining virtual reality technology with machine learning techniques
 . *In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA’20)*, Corfu, Greece. ACM, 4 pages. <https://doi.org/10.1145/3389189.3394093>
 
-Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model of Firearms Training in Police Officers: A Virtual Reality Experiment for Biocybernetic Adaptation. *Frontiers in Psychology*. 11:683. 2020. <https://doi.org/10.3389/fpsyg.2020.00683> **Journal (Open Access) 📖** <br>🔍[See more...]({{site.baseurl}}/projects/BioPhyS)
+Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model of Firearms Training in Police Officers: A Virtual Reality Experiment for Biocybernetic Adaptation. *Frontiers in Psychology*. 11:683. 2020. <https://doi.org/10.3389/fpsyg.2020.00683> **Journal (Open Access) 📖** <br>🔍[See more...]({{site.url}}/projects/BioPhyS)
 
 ## 2019
 
-**Quintero L**, Muñoz JE, Papapetrou P. Open-Source Physiological Computing Framework using Heart Rate Variability in Mobile Virtual Reality Applications. *2nd International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, San Diego, CA, USA. 2019. <https://doi.org/10.1109/AIVR46125.2019.00027> <br>🔍[See more...]({{site.baseurl}}/projects/PARE-VR)
+**Quintero L**, Muñoz JE, Papapetrou P. Open-Source Physiological Computing Framework using Heart Rate Variability in Mobile Virtual Reality Applications. *2nd International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, San Diego, CA, USA. 2019. <https://doi.org/10.1109/AIVR46125.2019.00027> <br>🔍[See more...]({{site.url}}/projects/PARE-VR)
 
 **Quintero L**, Papapetrou P, Muñoz JE, Fors U. Implementation of Mobile-based Real-time Heart Rate Variability Detection for Personalized Healthcare. *Workshop TMDM in IEEE International Conference on Data Mining (ICDMW)*, Beijing, China. 2019. <https://doi.org/10.1109/ICDMW.2019.00123>
 
@@ -62,7 +62,7 @@ Muñoz JE, Pope AT, **Quintero L.V.**. Integrating Biocybernetic Adaptation in V
 
 ## 2018
 
-Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S., Cipresso, P., & Gaggioli, A. Towards Emotionally-Adaptive Virtual Reality for Mental Health Applications. *IEEE Journal of Biomedical and Health Informatics*. 2018. <https://doi.org/10.1109/JBHI.2018.2878846> **Journal (Open Access) 📖** <br>🔍[See more...]({{site.baseurl}}/projects/3Dream)
+Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S., Cipresso, P., & Gaggioli, A. Towards Emotionally-Adaptive Virtual Reality for Mental Health Applications. *IEEE Journal of Biomedical and Health Informatics*. 2018. <https://doi.org/10.1109/JBHI.2018.2878846> **Journal (Open Access) 📖** <br>🔍[See more...]({{site.url}}/projects/3Dream)
 
 ---
 
@@ -136,7 +136,7 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - Proceedings Chair in [MUM'24](https://mum-conf.org/2024/)
 
 ## Committee member
-- IEEE International Conference on [Artificial Intelligence & Extended and Virtual Reality (AIxVR)](http://www.ieee-aivr.org/): 2020-2023
+- IEEE International Conference on [Artificial Intelligence & Extended and Virtual Reality (AIxVR)](https://www.ieee-aivr.org/): 2020-2023
 
 ## Reviewer
 
@@ -145,4 +145,4 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - [Data Mining Journal](https://www.springer.com/journal/10618): '22 '23
 - [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20): '22
 - [Granular Computing Journal](https://www.springer.com/journal/41066): '21
-- [IEEE VR](http://ieeevr.org/): '21
+- [IEEE VR](https://ieeevr.org/): '21

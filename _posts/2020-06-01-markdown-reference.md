@@ -1,6 +1,6 @@
 ---
 title: MarkDown Reference
-author: Luis Quintero
+author: quintero
 date: 2020-06-01 15:00:00 +0100
 categories: [notes, writing]
 tags: [others]
@@ -76,11 +76,11 @@ Fluttering and dancing in the breeze.
 
 ## Tables
 
-|Company|Contact|Country|
-|:---|:--|---:|
-|Alfreds Futterkiste | Maria Anders | Germany
-|Island Trading | Helen Bennett | UK
-|Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy
+| Company                      | Contact          | Country |
+| :--------------------------- | :--------------- | ------: |
+| Alfreds Futterkiste          | Maria Anders     | Germany |
+| Island Trading               | Helen Bennett    |      UK |
+| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
 
 ## Link
 

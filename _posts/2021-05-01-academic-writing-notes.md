@@ -1,6 +1,6 @@
 ---
 title: Notes and Tips for Academic Writing
-author: Luis Quintero
+author: quintero
 date: 2021-05-01 15:00:00 +0100
 categories: [research, writing]
 tags: [others]
@@ -34,7 +34,7 @@ Writing better discussions for HCI papers - *Daniel Buschek*
 # Research Methods 🎯
 
 Slides about Research methods in machine learning. *Professor Tom Dietterich*, Oregon State University.
- - <http://web.engr.oregonstate.edu/~tgd/talks/new-in-ml-2019.pdf>
+ - <https://web.engr.oregonstate.edu/~tgd/talks/new-in-ml-2019.pdf>
 
 Main reference book for Research Methods in HCI.
 - [Research Methods in HCI, Lazar *et al.*](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4)

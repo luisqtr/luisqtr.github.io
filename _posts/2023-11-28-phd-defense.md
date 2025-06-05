@@ -1,6 +1,6 @@
 ---
 title: Overview of my PhD Thesis and public defense seminar
-author: Luis Quintero
+author: quintero
 date: 2023-11-28 18:00:00 +0100
 categories: [notes, research]
 tags: [XR, ML, physio]
@@ -30,6 +30,6 @@ However, designing personalized VR systems that use sensitive data from the user
 I look forward to continuing my research in the exciting fields of context-aware systems and human-computer integration.
 
 |---|---|
-|![PhDLQ]({{site.baseurl}}/assets/img/media/phdthesis/phd-defense (1).jpeg){:width="100%"} |![PhDLQ]({{site.baseurl}}/assets/img/media/phdthesis/phd-defense (2).jpeg){:width="100%"}|
-|![PhDLQ]({{site.baseurl}}/assets/img/media/phdthesis/phd-defense (4).jpeg){:width="100%"}|![PhDLQ]({{site.baseurl}}/assets/img/media/phdthesis/phd-defense (5).jpeg){:width="100%"}|
+|![PhDLQ]({{site.url}}/assets/img/media/phdthesis/phd-defense (1).jpeg){:width="100%"} |![PhDLQ]({{site.url}}/assets/img/media/phdthesis/phd-defense (2).jpeg){:width="100%"}|
+|![PhDLQ]({{site.url}}/assets/img/media/phdthesis/phd-defense (4).jpeg){:width="100%"}|![PhDLQ]({{site.url}}/assets/img/media/phdthesis/phd-defense (5).jpeg){:width="100%"}|
 

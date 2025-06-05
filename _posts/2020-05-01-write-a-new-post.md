@@ -1,10 +1,12 @@
 ---
 title: Writing a New Post
-author: Luis Quintero
+author: quintero
 date: 2020-05-01 14:00:00 +0100
 categories: [notes, research, educationg]
 tags: [XR, ML, physio, unity, python,others]
-image: /assets/img/portfolio/PortalSense.jpg
+image:
+  path: /assets/img/portfolio/PortalSense.jpg
+  alt: PortalSense logo
 toc: true
 published: false
 comments: false

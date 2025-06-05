@@ -29,7 +29,7 @@ Research area in the data science group working on the intersection of behaviora
 ## Consultant and Developer
 (September 2017 - August 2019) | **Multiple Projects**
 
-Design and development of VR-based solutions. Including firearms training simulator (USA), architecture visualization (Colombia), and healthcare (Sweden). *Check the section [Projects]({{ site.baseurl }}/tabs/projects/) for more details*.
+Design and development of VR-based solutions. Including firearms training simulator (USA), architecture visualization (Colombia), and healthcare (Sweden). *Check the section [Projects]({{ site.url }}/projects/) for more details*.
 
 ## Research Assistant
 (February 2017 - August 2017) | **Madeira Interactive Technologies Institute, LARSyS, Portugal**
@@ -69,5 +69,5 @@ GPA: 4.4/5.0 - Ranked 3rd/50 students.
 - **2023-2025**: Co-applicant in research project to analyze non-verbal communication through time-series analysis in psychotherapies by [Wallenberg Foundation](https://www.wallenberg.org/). [4.5MSEK ~= 430KUSD]
 - **2022-2023**: Seed funding for startup [PortalSense](https://portalsense.com) by [Fondo Emprender SENA Colombia](https://www.fondoemprender.com/). [80MCOP ~= 20K USD]
 - **2017-2019**: Scholarship for studies at Master's level, awarded by [Swedish Institute](https://si.se/en/apply/scholarships/). [~600K SEK = ~60K USD]
-- **2013-2015**: Grant [Roberto Rocca](http://sobipro.manizales.unal.edu.co/index.php/noticias/35-ano-2013/3959-estudiantes-de-la-u-n-recibieron-la-beca-roberto-rocca) for tuition fees during undergraduate studies, awarded by [Ternium](https://www.robertorocca.org/). [~2000 USD]
+- **2013-2015**: Grant [Roberto Rocca](https://sobipro.manizales.unal.edu.co/index.php/noticias/35-ano-2013/3959-estudiantes-de-la-u-n-recibieron-la-beca-roberto-rocca) for tuition fees during undergraduate studies, awarded by [Ternium](https://www.robertorocca.org/). [~2000 USD]
 - **2009-2010**: Grant for technical/vocational training in Computer Systems, awarded by [CHEC](https://www.youtube.com/watch?v=BYSb2hy46ds). [~3000 USD]
