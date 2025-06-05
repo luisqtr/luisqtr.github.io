@@ -1,10 +1,12 @@
 ---
 layout: post
 title: PortalSense
-author: Luis Quintero
+author: quintero
 date: 2023-03-30 12:00:00 +0100
 categories: [notes, projects]
 tags: [others]
+published: true
+comments: false
 ---
 
 Founder and Technical lead of PortalSense, a startup in Colombia focused on architecture visualization with virtual reality (VR) technology.
