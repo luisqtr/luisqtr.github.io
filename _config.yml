@@ -16,7 +16,7 @@ timezone: Europe/Stockholm
 
 title: Luis Quintero # the main title
 
-tagline: PhD in data science and immersive technologies. <br><br> Creating virtual worlds combining AI and XR. # it will display as the subtitle
+tagline: PhD in data science and immersive technologies. <br><br> Creating interactive immersive experiences with AI and XR. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Luis Quintero | Personal Website > 
@@ -41,10 +41,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/luisqtr # change to your GitHub homepage
-    - https://twitter.com/luisqtr0 # change to your Twitter homepage
+    # - https://twitter.com/luisqtr0 # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/luisqtr
+    # - https://www.linkedin.com/in/luisqtr
 
 # Site Verification Settings
 webmaster_verifications:

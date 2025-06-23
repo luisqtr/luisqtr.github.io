@@ -4,7 +4,11 @@ icon: fas fa-briefcase
 order: 2
 ---
 
-## Latest Projects
+## 2025
+
+🚧 *WIP*
+
+## 2024
 
 | PortalSense *(Startup)* <br> [![PortalSense]({{site.url}}/assets/img/portfolio/PortalSense.jpg){:width="30%"}]({{site.url}}/projects/PortalSense) | | |
 
