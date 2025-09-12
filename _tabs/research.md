@@ -11,7 +11,13 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2025
 
-Lakes A, **Quintero L**, Papapetrou P. EXTREMUM: A Web-Based Tool to Generate and Explore Counterfactual Explanations on Tabular and Time-Series Data. ECML PKDD 2025. Demo Track.
+Fredriksdotter K, Kuratomi A, Mondrejevski L, **Quintero L**. SepsisVision: Web-Based Support Tool for Sepsis Mortality Risk Screening through Explanatory and Exploratory User Interfaces. In [IXAIT](http://ixait.geist.re/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
+
+Gryschek G, **Quintero L**, Kuratomi A. Trustworthiness and Usefulness of Explainability in ML-Supported Depression Screening within Primary Care. In [HuMINE](http://humine2025.liacs.nl/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
+
+Lakes A, **Quintero L**, Papapetrou P. EXTREMUM: A Web-Based Tool to Generate and Explore Counterfactual Explanations on Tabular and Time-Series Data. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
+
+BagheriFard Z, Guarese R, **Quintero L**, Johnson F, Edvinsson B, Romero M. Enhancing Manufacturing Training Through Augmented Situated Visualization. Human-Computer Interaction – INTERACT 2025. LNCS, vol 16111. <https://doi.org/10.1007/978-3-032-05008-3_14>
 
 **Quintero L**, Bennaceur E, Ahlnäs L, Bjorn M. Hands-On Orchestra: Hand-based Interactive Manipulation of Spatial 3D Audio in Mixed Reality. **ACM International Conference on Interactive Media Experiences**, 342–345. <https://doi.org/10.1145/3706370.3731713>
 
