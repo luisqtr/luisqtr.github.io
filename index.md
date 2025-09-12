@@ -3,9 +3,9 @@ layout: home
 # Index page
 ---
 
-|     |                                                       |     |
-| --- | :---------------------------------------------------: | --- |
-|     | ![ImgLink]({{site.url}}{{site.avatar}}){:width="50%"} |     |
+|     |                                                                         |     |
+| --- | :---------------------------------------------------------------------: | --- |
+|     | ![ProfilePic]({{site.url}}{{site.avatar}}){:width="50%"; height="auto"} |     |
 
 
 **Tenure-track Assistant Professor** at Stockholm University in the [Department of Computer and Systems Sciences (DSV)](https://dsv.su.se/).  

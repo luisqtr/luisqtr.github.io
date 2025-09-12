@@ -7,14 +7,53 @@ order: 4
 
 📡 **Podcasts, interviews, presentations, and other media.**
 
-| *2024-04-17* 📄 [**Magazine article:** Wearables and decentralized internet][the_conversation_24]{:target="_blank"} <br> Perspective published on the research magazine The Conversation, titled: *A new wave of wearable devices will collect a mountain on information on us – we need to get wise about the privacy implications*. | [![TC][the_conversation_24_img]{:width="100%"}][the_conversation_24]{:target="_blank"} |
-| *2024-01-03* 📄 [**Interview:** "The real game changer is smart glasses"][blog_phd_2024]{:target="_blank"} <br> Interview summarizing my PhD thesis at Stockholm University: *User Modeling for Adaptive Virtual Reality Experiences*. More information about the thesis [in this link]({{site.url}}/posts/phd-defense/) | [![SU][blog_phd_2024_img]{:width="100%"}][blog_phd_2024_img]{:target="_blank"} |
-| *2022-12-06* 📄 [**Talk:** User Modeling in Virtual Reality Environments][cwi_link]{:target="_blank"} <br> Early overview of my doctoral work at Stockholm University: *Time-series analysis for behavioural user modelling in interactive virtual environments*. | [![CWI][cwi_img]{:width="100%"}][cwi_link]{:target="_blank"} |
-| *2022-12-06* 📄 [**Talk:** Visualizando el futuro en realidad virtual][portalsense_2022]{:target="_blank"} <br> An outlook on how virtual reality may transform real estate communication in the future generation of home buyers with [PortalSense]. | [![PortalSense]({{site.url}}/assets/img/media/221206talk-portalsense.jpg){:width="100%"}][portalsense_2022]{:target="_blank"} |
-| *2022-05-04* 📄 [**Blog:** PhD Project at Stockholm University][blog_phd]{:target="_blank"} <br> Showcasing on the SU website my PhD project: *Time-series analysis for behavioural user modelling in interactive virtual environments*. | [![SU_Project][blog_phd_img]{:width="100%"}][blog_phd]{:target="_blank"} |
-| *2021-10-06* 🎥 [**Presentation:** Conference ISMAR21][ismar21]{:target="_blank"} <br> Oral presentation in the conference [ISMAR 2021](https://ismar21.org/) about the paper: <br> ["*Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality*"]({{site.url}}/projects/ExciteOMeter). <br> | [![ISMAR21][ismar21_img]{:width="100%"}][ismar21]{:target="_blank"} |
-| *2021-09-24* 🎤 **Panel** GAME-ON 2021 <br> Panelist about "*The Use of Digital Games and AI for Health and Wellbeing*". <br> Part of the [EUROSIS GAME-ON Conference 2021](https://eurosis.org/conf/gameon/2021/index.html). | ![GAMEON21]({{site.url}}/assets/img/media/202109panelgames4health.jpg){:width="100%"}| 
-| *2020-10-26* 🔊 [**Podcast Interview:** Combining ML with VR][versatilist]{:target="_blank"}  <br> Interviewed by the [Immersive Learning Network](https://immersivelrn.org/). Here, I discussed with Patrick O'Shea about the methodological aspects of combining ML and VR in research projects, as presented in my paper: ["*Understanding research methodologies when combining virtual reality technology with machine learning techniques*"](https://doi.org/10.1145/3389189.3394093){:target="_blank"}. |  <br>|
+
+*2024-04-17* 📄 [**Magazine article:** Wearables and decentralized internet][the_conversation_24]{:target="_blank"}
+
+Perspective published on the research magazine The Conversation, titled: *A new wave of wearable devices will collect a mountain on information on us – we need to get wise about the privacy implications*.
+
+[![TC][the_conversation_24_img]{:width="100%";height="auto"}][the_conversation_24]{:target="_blank"}
+
+
+*2024-01-03* 📄 [**Interview:** "The real game changer is smart glasses"][blog_phd_2024]{:target="_blank"}
+
+Interview summarizing my PhD thesis at Stockholm University: *User Modeling for Adaptive Virtual Reality Experiences*. More information about the thesis [in this link]({{site.url}}/posts/phd-defense/)
+
+[![SU][blog_phd_2024_img]{:width="30%";height="auto"}][blog_phd_2024_img]{:target="_blank"}
+
+*2022-12-06* 📄 [**Talk:** User Modeling in Virtual Reality Environments][cwi_link]{:target="_blank"}
+
+Early overview of my doctoral work at Stockholm University: *Time-series analysis for behavioural user modelling in interactive virtual environments*.
+
+[![CWI][cwi_img]{:width="30%";height="auto"}][cwi_link]{:target="_blank"}
+
+*2022-12-06* 📄 [**Talk:** Visualizando el futuro en realidad virtual][portalsense_2022]{:target="_blank"}
+
+An outlook on how virtual reality may transform real estate communication in the future generation of home buyers with [PortalSense].
+
+[![PortalSense]({{site.url}}/assets/img/media/221206talk-portalsense.jpg){:width="30%";height="auto"}][portalsense_2022]{:target="_blank"}
+
+*2022-05-04* 📄 [**Blog:** PhD Project at Stockholm University][blog_phd]{:target="_blank"} 
+
+Showcasing on the SU website my PhD project: *Time-series analysis for behavioural user modelling in interactive virtual environments*.
+
+[![SU_Project][blog_phd_img]{:width="30%";height="auto"}][blog_phd]{:target="_blank"}
+
+*2021-10-06* 🎥 [**Presentation:** Conference ISMAR21][ismar21]{:target="_blank"}
+
+Oral presentation in the conference [ISMAR 2021](https://ismar21.org/) about the paper: ["*Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality*"]({{site.url}}/projects/ExciteOMeter).
+
+[![ISMAR21][ismar21_img]{:width="30%";height="auto"}][ismar21]{:target="_blank"}
+
+*2021-09-24* 🎤 **Panel**
+
+GAME-ON 2021 Panelist about "*The Use of Digital Games and AI for Health and Wellbeing*". Part of the [EUROSIS GAME-ON Conference 2021](https://eurosis.org/conf/gameon/2021/index.html).
+
+![GAMEON21]({{site.url}}/assets/img/media/202109panelgames4health.jpg){:width="30%";height="auto"}
+
+*2020-10-26* 🔊 [**Podcast Interview:** Combining ML with VR][versatilist]{:target="_blank"}
+
+Interviewed by the [Immersive Learning Network](https://immersivelrn.org/). Here, I discussed with Patrick O'Shea about the methodological aspects of combining ML and VR in research projects, as presented in my paper: ["*Understanding research methodologies when combining virtual reality technology with machine learning techniques*"](https://doi.org/10.1145/3389189.3394093){:target="_blank"}. 
 
 <!-- LINKS -->
 
