@@ -22,9 +22,10 @@ Previous projects explored adaptive personalization loops for virtual experience
 ### Contact 
 
 | {% assign email = site.social.email | split: '@' %}
-        <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))"><i class="fa fa-envelope"></i> Email </a> | <i class="fab fa-linkedin-in"></i> [LinkedIn](https://linkedin.com/in/luisqtr) | <i class="fab fa-x-twitter"></i> [Twitter-X](https://twitter.com/luisqtr0) |
+        <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))"><i class="fa fa-envelope"></i> Email </a> | <i class="fab fa-linkedin-in"></i> [LinkedIn](https://linkedin.com/in/luisqtr) | <i class="fab fa-github"></i> [GitHub](https://github.com/luisqtr) | <i class="fab fa-x-twitter"></i> [Twitter-X](https://twitter.com/luisqtr0) |
 
-### More profiles
 
-| <i class="fab fa-github"></i> [GitHub](https://github.com/luisqtr) | <i class="fab fa-google"></i> [Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ) | <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Luis-Quintero-4) |
-|  <i class="fab fa-orcid"></i> [ORCiD](https://orcid.org/0000-0002-6047-2793) | <i class="fa fa-link"></i> [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001553941) | <i class="fa fa-link"></i> [SU](https://www.su.se/english/profiles/luva3178) |
+### Academic profiles
+
+| <i class="fa fa-link"></i> [Stockhom University](https://www.su.se/english/profiles/luva3178) | <i class="fab fa-google"></i> [Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ) | <i class="fab fa-orcid"></i> [ORCiD](https://orcid.org/0000-0002-6047-2793) | 
+| <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Luis-Quintero-4) | <i class="fa fa-link"></i> [ACM](https://dl.acm.org/profile/99659545841) | <i class="fa fa-link"></i> [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001553941) |
