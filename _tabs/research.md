@@ -15,7 +15,7 @@ Fredriksdotter K, Kuratomi A, Mondrejevski L, **Quintero L**. SepsisVision: Web-
 
 Gryschek G, **Quintero L**, Kuratomi A. Trustworthiness and Usefulness of Explainability in ML-Supported Depression Screening within Primary Care. In [HuMINE](http://humine2025.liacs.nl/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
 
-Lakes A, **Quintero L**, Papapetrou P. EXTREMUM: A Web-Based Tool to Generate and Explore Counterfactual Explanations on Tabular and Time-Series Data. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
+Lakes A, **Quintero L**, Papapetrou P. EXTREMUM: A Web-Based Tool to Generate and Explore Counterfactual Explanations on Tabular and Time-Series Data. **Applied Data Science Track and Demo Track. ECML PKDD 2025. Lecture Notes in Computer Science**, vol 16022. <https://doi.org/10.1007/978-3-032-06129-4_37>
 
 BagheriFard Z, Guarese R, **Quintero L**, Johnson F, Edvinsson B, Romero M. Enhancing Manufacturing Training Through Augmented Situated Visualization. Human-Computer Interaction – INTERACT 2025. LNCS, vol 16111. <https://doi.org/10.1007/978-3-032-05008-3_14>
 
