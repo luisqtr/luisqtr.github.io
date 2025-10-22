@@ -3,17 +3,17 @@ layout: home
 # Index page
 ---
 
-|     |                                                                         |     |
-| --- | :---------------------------------------------------------------------: | --- |
-|     | ![ProfilePic]({{site.url}}{{site.avatar}}){:width="50%"; height="auto"} |     |
+<div class="row justify-content-center"> <div class="col-sm-12 col-md-6">
+<img src="{{site.url}}{{site.avatar}}" alt="ProfilePic">
+</div> </div>
 
 
 **Tenure-track Assistant Professor** at Stockholm University in the [Department of Computer and Systems Sciences (DSV)](https://dsv.su.se/).  
-His research intersects data science, immersive technologies (XR/VR/MR/AR), and human-centered AI.
+His research intersects data science, immersive technologies (XR/VR/MR/AR), and human-centered AI. 
 
-His current research projects explore how co-located mixed reality can support novel interactions for artistic performances, how to improve accessibility through interactive immersive systems, and how to integrate AI-supported decision-making tools into practice with explainable user interfaces.
+His current research projects explore how co-located mixed reality experiences can support novel interactions in outdoor artistic performances, how to design interactive immersive experiences as support systems for accessibility, and how to design AI-supported decision-making tools for healthcare with explainable user interfaces.
 
-Previous projects explored adaptive personalization loops for virtual experiences using time-series machine learning to estimate human factors from physiological and behavioral sensors. He also acted as co-founder and CTO at [PortalSense](https://portalsense.com/), a startup based in Colombia that helped real estate businesses employ immersive 3D technologies for interactive architectural visualization of new construction projects.
+Previous projects contributed with algorithms and open-source frameworks towards adaptive personalization loops of virtual experiences from body monitoring sensors and machine learning, and applications for immersive architectural visualization for real estate projects at [PortalSense](https://portalsense.com/).
 
 #### 🛠️ [See projects]({{ "/projects" | relative_url }})
 
