@@ -9,20 +9,24 @@ order: 1
 
 Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ)
 
+## 2026
+
+BagheriFard, Z., Vasiliu, M. M., Pretty, E. J., **Quintero, L.**, Edvinsson, B., Romero, M., & Guarese, R. (2026). Situated visualization towards manufacturing maintenance training: Scoping review, design and user study. Computers&Graphics, 134, 104500. <https://doi.org/10.1016/j.cag.2025.104500>
+
+
 ## 2025
 
 Fredriksdotter K, Kuratomi A, Mondrejevski L, **Quintero L**. SepsisVision: Web-Based Support Tool for Sepsis Mortality Risk Screening through Explanatory and Exploratory User Interfaces. In [IXAIT](http://ixait.geist.re/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
 
 Gryschek G, **Quintero L**, Kuratomi A. Trustworthiness and Usefulness of Explainability in ML-Supported Depression Screening within Primary Care. In [HuMINE](http://humine2025.liacs.nl/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
 
-Lakes A, **Quintero L**, Papapetrou P. EXTREMUM: A Web-Based Tool to Generate and Explore Counterfactual Explanations on Tabular and Time-Series Data. **Applied Data Science Track and Demo Track. ECML PKDD 2025. Lecture Notes in Computer Science**, vol 16022. <https://doi.org/10.1007/978-3-032-06129-4_37>
+Lakes, A., **Quintero, L.**, & Papapetrou, P. (2025). EXTREMUM: A Web-Based Tool to Generate and Explore Counterfactual Explanations on Tabular and Time-Series Data. In Lecture Notes in Computer Science (pp. 491–496). *Applied Data Science Track and Demo Track. ECML PKDD 2025. Lecture Notes in Computer Science*, vol 16022. <https://doi.org/10.1007/978-3-032-06129-4_37>
 
-BagheriFard Z, Guarese R, **Quintero L**, Johnson F, Edvinsson B, Romero M. Enhancing Manufacturing Training Through Augmented Situated Visualization. Human-Computer Interaction – INTERACT 2025. LNCS, vol 16111. <https://doi.org/10.1007/978-3-032-05008-3_14>
+BagheriFard, Z., Guarese, R., **Quintero, L.**, Johnson, F., Edvinsson, B., & Romero, M. (2025). Enhancing Manufacturing Training Through Augmented Situated Visualization. *Human-Computer Interaction – INTERACT 2025. In Lecture Notes in Computer Science* (pp. 66–71). https://doi.org/10.1007/978-3-032-05008-3_14
 
-**Quintero L**, Bennaceur E, Ahlnäs L, Bjorn M. Hands-On Orchestra: Hand-based Interactive Manipulation of Spatial 3D Audio in Mixed Reality. **ACM International Conference on Interactive Media Experiences**, 342–345. <https://doi.org/10.1145/3706370.3731713>
+**Quintero, L.**, Bennaceur, E., Ahlnäs, L., & Bjorn, M. (2025). Hands-On Orchestra: Hand-based Interactive Manipulation of Spatial 3D Audio in Mixed Reality. *In Proceedings of the 2025 ACM International Conference on Interactive Media Experiences. IMX'25* (pp. 342–345). <https://doi.org/10.1145/3706370.3731713>
 
-**Quintero L**, Pinheiro Braga A, Petersson N, Fors U. Transitional Portals for Participatory Co-Located Cross-Reality Experiences. **ACM International Conference on Interactive Media Experiences**, 368–371. <https://doi.org/10.1145/3706370.3731708>
-
+**Quintero, L.**, Pinheiro Braga, A. M. B. M., Petersson, N., & Fors, U. G. (2025). Transitional Portals for Participatory Co-Located Cross-Reality Experiences. *In Proceedings of the 2025 ACM International Conference on Interactive Media Experiences (pp. 368–371). IMX’25*. <https://doi.org/10.1145/3706370.3731708>
 
 ## 2024
 
