@@ -7,7 +7,7 @@ order: 1
 
 # 📑 Publications
 
-Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ)
+Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ), or [ORCiD](https://orcid.org/0000-0002-6047-2793).
 
 ## 2026
 
@@ -15,6 +15,8 @@ BagheriFard, Z., Vasiliu, M. M., Pretty, E. J., **Quintero, L.**, Edvinsson, B.,
 
 
 ## 2025
+
+Dudeja, K., McMillan, D., **Quintero, L**. MR-Monitor: Mixed-Reality Monitoring of Urban Maps Through Hand-Based Interactions. (pp. 268–275). *GoodIT ’25: International Conference on Information Technology for Social Good*. ACM. <https://doi.org/10.1145/3748699.3749801>
 
 Fredriksdotter K, Kuratomi A, Mondrejevski L, **Quintero L**. SepsisVision: Web-Based Support Tool for Sepsis Mortality Risk Screening through Explanatory and Exploratory User Interfaces. In [IXAIT](http://ixait.geist.re/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025.
 
