@@ -73,7 +73,7 @@ Interviewed by the [Immersive Learning Network](https://immersivelrn.org/). Here
 [the_conversation_24_img]: https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/logo-en-b159aca2598f351db37072c75294e4c8.svg
 
 [blog_phd_2024]: https://www.su.se/english/research/news-research/the-real-game-changer-is-when-regular-glasses-become-smart-1.703576
-[blog_phd_2024_img]: https://www.su.se/polopoly_fs/1.703580!/image/image.jpg_gen/derivatives/landscape_690/image.jpg
+[blog_phd_2024_img]: https://www.su.se/images/18.6f0acc5f19a7bc9dc1f45f04/1764265214702/0-image.jpg
 
 [cwi_link]: https://www.dis.cwi.nl/
 [cwi_img]: https://www.dis.cwi.nl/img/dis-logo-filled.png
@@ -82,11 +82,10 @@ Interviewed by the [Immersive Learning Network](https://immersivelrn.org/). Here
 [portalsense_2022]: https://youtu.be/C8lsJHEZGUo
 
 [blog_phd]: https://www.su.se/english/research/research-projects/time-series-analysis-for-behavioural-user-modelling-in-interactive-virtual-environments
-[blog_phd_img]: https://www.su.se/polopoly_fs/1.600619.1646057783!/image/image.jpeg_gen/derivatives/widescreen_690/image.jpeg
+[blog_phd_img]: https://www.su.se/images/18.79f8abbf19c47ba34bd213/1770814588192/(2)%20project-image-0-image.jpeg
 
 [ismar21]: https://youtu.be/lTfjSNsVGes?t=4326
 [ismar21_img]: {{site.url}}/assets/img/media/202110ismar.jpg
 
 [versatilist]: https://www.podomatic.com/podcasts/versatilist/episodes/2020-10-25T19_04_00-07_00
-
 
