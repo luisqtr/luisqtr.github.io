@@ -11,7 +11,7 @@ order: 1
 
 **2026** [Grant for quality development of education] 290KSEK *{Project member}* - Virtuella patienter och en virtuell utbildningsklinik: förutsättningar för träning och examination av kliniska färdigheter hos framtidens psykologer
 
-**2023-2026** [Wallenberg Foundation](https://maw.wallenberg.org/) 4.5MSEK *{Project Member} Let us talk about non-verbal communication: Investigation of interpersonal psychotherapeutic interactions and their effect on treatment outcomes using AI and time series analysis.
+**2023-2026** [Wallenberg Foundation](https://maw.wallenberg.org/) 4.5MSEK *{Project Member}* Let us talk about non-verbal communication: Investigation of interpersonal psychotherapeutic interactions and their effect on treatment outcomes using AI and time series analysis.
 
 **2022--2023** [Startup Funding - Fondo Emprender](https://www.fondoemprender.com/) 20kEUR *{Project Leader}* Seed funding to startup PortalSense (Manizales Colombia) for VR real estate visualization.
 

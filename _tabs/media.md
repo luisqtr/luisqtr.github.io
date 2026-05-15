@@ -8,6 +8,14 @@ order: 5
 📡 **Podcasts, interviews, presentations, and other media.**
 
 
+*2026-05-13* [**SU Blog:** Stepping inside the cosmic web][su_cosmology_26]{:target="_blank"}
+
+Together with a master's student, a project hosted at the Oskar Klein Centre asked twelve Stockholm cosmologists to label structures in a simulated patch of the universe, finding that tehy covered roughly 2.17 times more volume in VR than on the flat screen.
+
+*2026-03-24* 🎧 [**Podcast:** HilightThis Spotify with Siri Östlund.][hilightthis_podcast_26]{:target="_blank"}
+
+My views on AI-based personalization and privacy in the era of smart glasses and wearables. Could smartglasses eventually require something like a driver’s license? What happens when wearable devices start predicting our emotions or influencing our choices?
+
 *2024-04-17* 📄 [**Magazine article:** Wearables and decentralized internet][the_conversation_24]{:target="_blank"}
 
 Perspective published on the research magazine The Conversation, titled: *A new wave of wearable devices will collect a mountain on information on us – we need to get wise about the privacy implications*.
@@ -33,7 +41,7 @@ An outlook on how virtual reality may transform real estate communication in the
 
 [![PortalSense]({{site.url}}/assets/img/media/221206talk-portalsense.jpg){:width="30%";height="auto"}][portalsense_2022]{:target="_blank"}
 
-*2022-05-04* 📄 [**Blog:** PhD Project at Stockholm University][blog_phd]{:target="_blank"} 
+*2022-05-04* 📄 [**SU Blog:** PhD Project at Stockholm University][blog_phd]{:target="_blank"} 
 
 Showcasing on the SU website my PhD project: *Time-series analysis for behavioural user modelling in interactive virtual environments*.
 
@@ -56,6 +64,10 @@ GAME-ON 2021 Panelist about "*The Use of Digital Games and AI for Health and Wel
 Interviewed by the [Immersive Learning Network](https://immersivelrn.org/). Here, I discussed with Patrick O'Shea about the methodological aspects of combining ML and VR in research projects, as presented in my paper: ["*Understanding research methodologies when combining virtual reality technology with machine learning techniques*"](https://doi.org/10.1145/3389189.3394093){:target="_blank"}. 
 
 <!-- LINKS -->
+
+[su_cosmology_26]: https://www.su.se/english/divisions/oskar-klein-centre/news/articles/2026-05-13-stepping-inside-the-cosmic-web-a-pilot-in-virtual-reality-cosmology
+
+[hilightthis_podcast_26]: https://open.spotify.com/episode/2CViF3NZuewN77MuHdq6M5?si=gV5as3PERde4PTMSy9DFow
 
 [the_conversation_24]: https://theconversation.com/a-new-wave-of-wearable-devices-will-collect-a-mountain-on-information-on-us-we-need-to-get-wise-about-the-privacy-implications-226537
 [the_conversation_24_img]: https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/logo-en-b159aca2598f351db37072c75294e4c8.svg
