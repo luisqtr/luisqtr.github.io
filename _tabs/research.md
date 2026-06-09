@@ -22,6 +22,8 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2026
 
+Soltani, N., **Quintero, L.**, & Rostami, A. (2026). Interaction Onset Strategies for Conversational AI Agents in VR. *In Proceedings of the 2026 ACM International Conference on Interactive Media Experiences (pp. 35–45). ACM. IMX ’26.* <https://doi.org/10.1145/3788851.3805005>
+
 BagheriFard, Z., Vasiliu, M. M., Pretty, E. J., **Quintero, L.**, Edvinsson, B., Romero, M., & Guarese, R. (2026). Situated visualization towards manufacturing maintenance training: Scoping review, design and user study. Computers&Graphics, 134, 104500. <https://doi.org/10.1016/j.cag.2025.104500>
 
 Fredriksdotter K, Kuratomi A, Mondrejevski L, **Quintero L**. SepsisVision: Web-Based Support Tool for Sepsis Mortality Risk Screening through Explanatory and Exploratory User Interfaces. In [IXAIT](http://ixait.geist.re/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025. <https://doi.org/10.1007/978-3-032-19105-2_11>
