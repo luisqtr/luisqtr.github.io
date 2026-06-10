@@ -19,7 +19,7 @@ A Software Framework to Integrate Physiological Data in Extended Reality Applica
 
 📱**Windows 10/11 App:** <https://www.microsoft.com/store/apps/9PFMNFQJB99Q>
 
-🖥**Project Website:** <http://exciteometer.eu/>
+🖥**Project Website:** <https://exciteometer.eu/>
 
 <!-- <img src="{{site.url}}/assets/img/portfolio/EoM/architecture.jpg" width="80%"> -->
 

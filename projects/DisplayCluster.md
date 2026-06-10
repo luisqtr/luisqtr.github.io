@@ -15,5 +15,5 @@ Las pantallas de visualización de gran tamaño y alta definición presentan ret
 
 Watch Video on YouTube:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/akAH4v1CvdA/0.jpg)](http://www.youtube.com/watch?v=akAH4v1CvdA "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/akAH4v1CvdA/0.jpg)](https://www.youtube.com/watch?v=akAH4v1CvdA "Video Title")
 

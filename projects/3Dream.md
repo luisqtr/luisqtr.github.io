@@ -16,4 +16,4 @@ VR tool used to train emotional regulation in psychology. It uses HTC-Vive and w
 
 🎥**Video on Youtube:**
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Jz3TDvnZ3zo/0.jpg)](http://www.youtube.com/watch?v=Jz3TDvnZ3zo "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/Jz3TDvnZ3zo/0.jpg)](https://www.youtube.com/watch?v=Jz3TDvnZ3zo "Video Title")

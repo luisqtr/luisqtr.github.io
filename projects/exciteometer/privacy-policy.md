@@ -12,7 +12,7 @@ published: true
 
 📱**Windows 10/11 App:** <https://www.microsoft.com/store/apps/9PFMNFQJB99Q>
 
-🖥**Project Website:** <http://exciteometer.eu/>
+🖥**Project Website:** <https://exciteometer.eu/>
 
 ## Privacy Policy for Excite-O-Meter
 

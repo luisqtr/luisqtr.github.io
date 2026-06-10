@@ -21,7 +21,7 @@ The project was presented to Swedish hospitals to start a clinical trial of the 
 
 In August 2020, the project EasyBlood is proposed to be continued together with the [KIDS (Children Hospital Innovators’ Club)](https://www.kids.org.pl/projects/telemedycyna---system-zdalnej-opieki-w-czd) Foundation from Poland (Warsaw), which aims at leading digital transformation in Polish paediatric hospitals. They bring innovative solutions to hospitals in order to transform the experience that is built around paediatric hospitals for patients, parents, and the medical staff. Moreover, collaborate closely with tech startups, corporations, innovators, NGOs and medical staff. 
 
-The projects consists on introducing VR for anxiety and pain management during venipuncture procedures for kids between 4 and 7 years old in the Oncology Department of the [Children’s Memorial Health Institute](http://www.czd.pl/index.php?option=com_content&view=article&id=279&Itemid=106).
+The projects consists on introducing VR for anxiety and pain management during venipuncture procedures for kids between 4 and 7 years old in the Oncology Department of the [Children’s Memorial Health Institute](https://www.czd.pl/index.php?option=com_content&view=article&id=279&Itemid=106).
 
 
 | <img src="{{site.url}}/assets/img/portfolio/EB/Poster.jpg" width="100%"> |

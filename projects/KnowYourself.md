@@ -25,4 +25,4 @@ Cada tema tiene una serie de mini juegos que enseñan conceptos básicos y defin
 
 Watch Video on YouTube:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/DKqjgoHWPIY/0.jpg)](http://www.youtube.com/watch?v=DKqjgoHWPIY "Video Title")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/DKqjgoHWPIY/0.jpg)](https://www.youtube.com/watch?v=DKqjgoHWPIY "Video Title")
