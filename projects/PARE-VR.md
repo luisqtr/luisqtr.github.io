@@ -3,8 +3,8 @@ layout: post
 title: PARE-VR
 author: quintero
 date: 2019-07-20 21:00:00 +0100
-categories: [research, projects]
-tags: [XR, physio, unity]
+# categories: [research, projects]
+# tags: [XR, physio, unity]
 published: true
 comments: false
 ---
@@ -18,6 +18,6 @@ Thesis project in collaboration with [Mimerse](https://mimerse.com), using their
 📙[Download Thesis]({{site.url}}/assets/files/2019_MasterThesis_LuisQuintero.pdf)
 
 
-| <img src="{{site.url}}/assets/img/portfolio/PARE/App1.png" width="100%"> | <img src="{{site.url}}/assets/img/portfolio/PARE/App2.png" width="100%">
- | <img src="{{site.url}}/assets/img/portfolio/PARE/App3.JPG" width="100%"> |
+| <img src="{{site.url}}/assets/img/portfolio/PARE/App1.png" width="100%" alt="PARE-VR"> | <img src="{{site.url}}/assets/img/portfolio/PARE/App2.png" width="100%" alt="PARE-VR">
+ | <img src="{{site.url}}/assets/img/portfolio/PARE/App3.JPG" width="100%" alt="PARE-VR"> |
 

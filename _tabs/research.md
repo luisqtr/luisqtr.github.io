@@ -27,9 +27,9 @@ Soltani, N., **Quintero, L.**, & Rostami, A. (2026). Interaction Onset Strategie
 
 BagheriFard, Z., Vasiliu, M. M., Pretty, E. J., **Quintero, L.**, Edvinsson, B., Romero, M., & Guarese, R. (2026). Situated visualization towards manufacturing maintenance training: Scoping review, design and user study. Computers&Graphics, 134, 104500. <https://doi.org/10.1016/j.cag.2025.104500>
 
-Fredriksdotter K, Kuratomi A, Mondrejevski L, **Quintero L**. SepsisVision: Web-Based Support Tool for Sepsis Mortality Risk Screening through Explanatory and Exploratory User Interfaces. In [IXAIT](http://ixait.geist.re/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025. <https://doi.org/10.1007/978-3-032-19105-2_11>
+Fredriksdotter K, Kuratomi A, Mondrejevski L, **Quintero L**. SepsisVision: Web-Based Support Tool for Sepsis Mortality Risk Screening through Explanatory and Exploratory User Interfaces. In [IXAIT](https://ixait.geist.re/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025. <https://doi.org/10.1007/978-3-032-19105-2_11>
 
-Gryschek G, **Quintero L**, Kuratomi A. Trustworthiness and Usefulness of Explainability in ML-Supported Depression Screening within Primary Care. In [HuMINE](http://humine2025.liacs.nl/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025. <https://doi.org/10.1007/978-3-032-19096-3_32>
+Gryschek G, **Quintero L**, Kuratomi A. Trustworthiness and Usefulness of Explainability in ML-Supported Depression Screening within Primary Care. In [HuMINE](https://humine2025.liacs.nl/) Workshop in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2025. <https://doi.org/10.1007/978-3-032-19096-3_32>
 
 ## 2025
 

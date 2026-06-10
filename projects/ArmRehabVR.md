@@ -3,8 +3,8 @@ layout: post
 title: ArmRehabVR
 author: quintero
 date: 2018-11-21 22:00:00 +0100
-categories: [research, projects]
-tags: [XR, unity, others]
+# categories: [research, projects]
+# tags: [XR, unity, others]
 published: true
 comments: false
 ---

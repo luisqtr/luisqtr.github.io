@@ -3,8 +3,8 @@ layout: post
 title: Know Yourself | Conócete
 author: quintero
 date: 2016-12-13 16:00:00 -0500
-categories: [education, projects]
-tags: [unity]
+# categories: [education, projects]
+# tags: [unity]
 published: true
 comments: false
 ---

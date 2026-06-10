@@ -3,8 +3,8 @@ layout: post
 title: BL Engine & CAVE
 author: quintero
 date: 2017-03-11 20:00:00 +0000
-categories: [research, projects]
-tags: [XR, physio, unity]
+# categories: [research, projects]
+# tags: [XR, physio, unity]
 published: true
 comments: false
 ---

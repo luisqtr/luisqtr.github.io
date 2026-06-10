@@ -3,8 +3,8 @@ layout: post
 title: EasyBlood
 author: quintero
 date: 2019-03-15 22:00:00 +0100
-categories: [education, projects]
-tags: [XR, unity]
+# categories: [education, projects]
+# tags: [XR, unity]
 published: true
 comments: false
 ---
@@ -24,9 +24,9 @@ In August 2020, the project EasyBlood is proposed to be continued together with 
 The projects consists on introducing VR for anxiety and pain management during venipuncture procedures for kids between 4 and 7 years old in the Oncology Department of the [Children’s Memorial Health Institute](https://www.czd.pl/index.php?option=com_content&view=article&id=279&Itemid=106).
 
 
-| <img src="{{site.url}}/assets/img/portfolio/EB/Poster.jpg" width="100%"> |
+| <img src="{{site.url}}/assets/img/portfolio/EB/Poster.jpg" width="100%" alt="EB"> |
 
-| <img src="{{site.url}}/assets/img/portfolio/EB/1.jpg" width="100%"> | <img src="{{site.url}}/assets/img/portfolio/EB/2.jpg" width="100%"> | <img src="{{site.url}}/assets/img/portfolio/EB/3.jpg" width="100%"> |
+| <img src="{{site.url}}/assets/img/portfolio/EB/1.jpg" width="100%" alt="EB"> | <img src="{{site.url}}/assets/img/portfolio/EB/2.jpg" width="100%" alt="EB"> | <img src="{{site.url}}/assets/img/portfolio/EB/3.jpg" width="100%" alt="EB"> |
 
 
 Video:

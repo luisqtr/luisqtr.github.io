@@ -3,8 +3,8 @@ layout: post
 title: 3Dream - The Emotional Labyrinth
 author: quintero
 date: 2020-06-11 21:00:00 +0100
-categories: [research, projects]
-tags: [XR, physio, unity]
+# categories: [research, projects]
+# tags: [XR, physio, unity]
 published: true
 comments: false
 ---

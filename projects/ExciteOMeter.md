@@ -3,8 +3,8 @@ layout: post
 title: Excite-O-Meter
 author: quintero
 date: 2021-10-10 10:00:00 +0100
-categories: [research, projects]
-tags: [XR, ML, physio, unity, python]
+# categories: [research, projects]
+# tags: [XR, ML, physio, unity, python]
 published: true
 comments: false
 ---

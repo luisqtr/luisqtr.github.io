@@ -3,15 +3,15 @@ layout: post
 title: PortalSense
 author: quintero
 date: 2023-03-30 12:00:00 +0100
-categories: [notes, projects]
-tags: [others]
+# categories: [notes, projects]
+# tags: [others]
 published: true
 comments: false
 ---
 
 Founder and Technical lead of PortalSense, a startup in Colombia focused on architecture visualization with virtual reality (VR) technology.
 
-[PortalSense]((https://portalsense.com)) is building the platfom *VR cities* that allows clients to immerse themselves in their dream home before it is built. The platform showcases different design options, floor plans, interiors, exteriors, and animations of the project in first-person perspective. VR Cities enables clients to provide feedback and request changes in real time. This way, the platform helps architects and real estate agents to market their projects more effectively, reducing costs, and increasing customer satisfaction.
+[PortalSense](https://portalsense.com) is building the platfom *VR cities* that allows clients to immerse themselves in their dream home before it is built. The platform showcases different design options, floor plans, interiors, exteriors, and animations of the project in first-person perspective. VR Cities enables clients to provide feedback and request changes in real time. This way, the platform helps architects and real estate agents to market their projects more effectively, reducing costs, and increasing customer satisfaction.
 
 The main **benefits** are:
 - Enhance the design process by allowing architects to visualize and test their ideas in a realistic and immersive way. VR help architects to collaborate with clients and other stakeholders more easily and efficiently.

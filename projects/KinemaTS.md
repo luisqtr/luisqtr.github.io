@@ -3,8 +3,8 @@ layout: post
 title: KinemaTS
 author: quintero
 date: 2022-01-10 10:00:00 +0100
-categories: [research, projects]
-tags: [ML, physio, python]
+# categories: [research, projects]
+# tags: [ML, physio, python]
 published: true
 comments: false
 ---

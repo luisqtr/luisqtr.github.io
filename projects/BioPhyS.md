@@ -3,8 +3,8 @@ layout: post
 title: BioPhyS
 author: quintero
 date: 2019-09-10 21:00:00 +0100
-categories: [research, projects]
-tags: [XR, physio, unity, python]
+# categories: [research, projects]
+# tags: [XR, physio, unity, python]
 published: true
 comments: false
 ---
