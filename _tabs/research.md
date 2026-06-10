@@ -6,6 +6,7 @@ order: 1
 
 # 📑 Funding
 
+**2027-2028** [Digital Futures Postdoc](https://www.digitalfutures.kth.se/call/up-to-ten-postdoc-fellows-in-technologies-for-digital-transformation-3/) 2.4MSEK *{Main Supervisor}* - Main supervisor for researcher granted Digital Futures Postdoctoral Fellowship 2026 for the project COHERE-XR: Adaptive XR for Shared Urban Heritage, aiming to study how multimodal interaction data from shared XR experiences can be used to model users with XAI.
 
 **2026-2027** [UoM/KTH/SU Seed Fund](https://www.manchester.ac.uk/collaborate/global-influence/global-partnerships/manchester-kth-stockholm-university/) 180KSEK *{Project Leader}* - Exploring Extended Reality for Aphantasics.
 
