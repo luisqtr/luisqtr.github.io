@@ -42,17 +42,17 @@ order: 2
 
 ## 2026
 
-- Antonio Jerkovic, *Mixed Reality as a practical alternative to Second-Screen Phones in Football Viewing*, MSc. Design for Immersive Technologies, DSV, SU.
-- Florian Unger, *Virtual Reality versus 2D Slice Tomography for Expert Ground Truth Annotation in Large-Scale Cosmology*, MSc. Design for Immersive Technologies, DSV, SU.
+- Antonio Jerkovic, *Mixed Reality as a Practical Alternative to Second-Screen Phones in Football Viewing*, MSc. Design for Immersive Technologies, DSV, SU.
+- Florian Unger, *Immersive Analytics for the Cosmic Web: Virtual Reality versus 2D Slice Tomography for Expert Ground-Truth Annotation in Large-Scale Cosmology*, MSc. Design for Immersive Technologies, DSV, SU.
 - Isha Kunal Bhansali, *Quantitative Evaluation of Post-hoc Explainable Artificial Intelligence Methods for Diabetic Retinopathy Classification*, MSc. Health Informatics, Karolinska Institutet.
-- Khachatur Dallakyan, *AI-Based Prediction of Postoperative Outcomes Using Surgical and Clinical Data*, MSc. Health Informatics, Karolinska Institutet.
+- Khachatur Dallakyan, *Quantifying the Incremental Value of SurgeonLevel Features in AI-Based Postoperative Risk Prediction: A Comparative Computational Experiment*, MSc. Health Informatics, Karolinska Institutet.
 - Naznin Akhtar, *Mental Imagery Support Tools for Aphantasia*, MSc. Health Informatics, Karolinska Institutet.
-- Kaviya Palaniyappan, *Evaluating User Interface Interventions to Counteract Automation Bias in Clinical Decision Support Systems*, MSc. Health Informatics, Karolinska Institutet.
-- Maria de Montmollin, *AI Support for Psychotherapy Education: A Research Through Design Study with Psychology Professionals*, AI for Health, DSV, SU.
+- Kaviya Palaniyappan, *Evaluating User Interface Interventions to Mitigate Over-Reliance on AI-Assisted Clinical Decision Support Systems*, MSc. Health Informatics, Karolinska Institutet.
+- Maria de Montmollin, *Designing AI-Supported Psychotherapy Practice: A Research Through Design Study of Virtual Patients and Feedback*, AI for Health, DSV, SU.
 - Weijia Li, *Computer Vision for Automated Welfare Scoring of Pig Leg and Claw Injuries*, AI for Health, DSV, SU.
-- Kowshik Sarker, *Evaluating Emotional Realism of AI-Generated Videos for Psychotherapy Education*, AI for Health, DSV, SU.
+- Kowshik Sarker, *Evaluating AI-Generated Virtual Patient Videos for Psychotherapy Education Through Non-Verbal Behavioural Similarity to Standardized Patient*, AI for Health, DSV, SU.
 - Minyi Luo, *Live Battery Parameter Optimization using Reinforcement Learning*, AI for Health, DSV, SU.
-- Mengfei Wang, Benchmarking Physiological and Affective Time-Series Classification, MSc. Computer Science, DSV, SU
+- Mengfei Wang, *Benchmarking Physiological Emotion Recognition Under Cross-Dataset Domain Shift in Virtual Reality*, MSc. Computer Science, DSV, SU
 - Chang Liu, *A System-Level Benchmark of Object Detection and Tracking Error Propagation in Public Traffic Monitoring*, MSc. Computer Science, DSV, SU
 - Åke Berg, *Camera Tracking Synchronization Errors and Perceived Visual Realism in Real-Time Virtual Production*, BSc in Digital Media, DSV, SU.
 
