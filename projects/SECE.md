@@ -19,7 +19,7 @@ Mixed Reality Shared Engagement in Cultural Events (SECE)
 
 **SU Project Website:** <https://www.su.se/english/research/research-catalogue/research-projects/d/mixed-reality-shared-engagement-in-cultural-events-sece>
 
-![teaser]({{site.url}}/assets/img/portfolio/EoM/eom_teaser_github_banner.jpg){:width="80%"}
+![teaser]({{site.url}}/assets/img/portfolio/SECE.jpg){:width="80%"}
 
 ## Description
 
