@@ -10,7 +10,7 @@ order: 1
 
 **2026-2027** [UoM/KTH/SU Seed Fund](https://www.su.se/english/research/research-catalogue/research-projects/9/exploring-extended-reality-for-aphantasics) 180KSEK *{Project Leader}* - Exploring Extended Reality for Aphantasics.
 
-**2026** [Grant for quality development of education]() 290KSEK *{Project member}* - Virtuella patienter och en virtuell utbildningsklinik: förutsättningar för träning och examination av kliniska färdigheter hos framtidens psykologer
+**2026** [Grant for quality development of education](https://www.su.se/english/research/research-catalogue/research-projects/0/virtual-patients-and-a-virtual-training-clinic) 290KSEK *{Project member}* - Virtuella patienter och en virtuell utbildningsklinik: förutsättningar för träning och examination av kliniska färdigheter hos framtidens psykologer
 
 **2023-2026** [Wallenberg Foundation](https://maw.wallenberg.org/) 4.5MSEK *{Project Member}* Let us talk about non-verbal communication: Investigation of interpersonal psychotherapeutic interactions and their effect on treatment outcomes using AI and time series analysis.
 

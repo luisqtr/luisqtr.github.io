@@ -17,7 +17,7 @@ His current research projects explore how co-located mixed reality experiences c
 
 ### Relevant previous projects:
 
-- [**2026**] Mixed reality Outdoor Performances ([SECE]({{site.url}}/projects/SECE)).
+- [**2026**] Mixed reality Outdoor Performances ([SECE]({{ "/projects/SECE" | relative_url }})).
 - [**2024**] Applications for immersive architectural visualization for real estate projects ([PortalSense]({{ "/projects/PortalSense" | relative_url }})).
 - [**2023**] Open-source frameworks for closed-loop personalization of virtual experience ([Excite-O-Meter]({{ "/projects/ExciteOMeter" | relative_url }})).
 - [See all]({{ "/projects" | relative_url }})
