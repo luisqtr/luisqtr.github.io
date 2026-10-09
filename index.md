@@ -13,11 +13,15 @@ His research intersects data science, immersive technologies (XR/VR/MR/AR), and 
 
 His current research projects explore how co-located mixed reality experiences can support novel interactions in outdoor artistic performances, how to design interactive immersive experiences as support systems for accessibility, and how to design AI-supported decision-making tools for healthcare with explainable user interfaces.
 
-Previous projects contributed with algorithms and open-source frameworks towards adaptive personalization loops of virtual experiences from body monitoring sensors and machine learning, and applications for immersive architectural visualization for real estate projects at [PortalSense](https://portalsense.com/).
+--- 
 
-#### 🛠️ [See projects]({{ "/projects" | relative_url }})
+### Relevant previous projects:
 
----
+- [**2026**] Mixed reality Outdoor Performances ([SECE]({{site.url}}/projects/SECE)).
+- [**2024**] Applications for immersive architectural visualization for real estate projects ([PortalSense]({{ "/projects/PortalSense" | relative_url }})).
+- [**2023**] Open-source frameworks for closed-loop personalization of virtual experience ([Excite-O-Meter]({{ "/projects/ExciteOMeter" | relative_url }})).
+- [See all]({{ "/projects" | relative_url }})
+
 
 ### Contact 
 

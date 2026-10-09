@@ -4,9 +4,10 @@ icon: fas fa-briefcase
 order: 3
 ---
 
-## 2025
+## 2025-2026
 
-🚧 *WIP*
+| SECE *(Research)* <br> [![PortalSense]({{site.url}}/assets/img/portfolio/SECE.jpg){:width="40%"}]({{site.url}}/projects/SECE) | | |
+
 
 ## 2024
 

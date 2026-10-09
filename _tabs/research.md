@@ -8,9 +8,9 @@ order: 1
 
 **2027-2028** [Digital Futures Postdoc](https://www.digitalfutures.kth.se/digital-futures-awards-funding-to-12-new-international-postdoctoral-projects/) 2.4MSEK *{Main Supervisor}* - Main supervisor for researcher granted Digital Futures Postdoctoral Fellowship 2026 for the project COHERE-XR: Adaptive XR for Shared Urban Heritage, aiming to study how multimodal interaction data from shared XR experiences can be used to model users with XAI.
 
-**2026-2027** [UoM/KTH/SU Seed Fund](https://www.manchester.ac.uk/collaborate/global-influence/global-partnerships/manchester-kth-stockholm-university/) 180KSEK *{Project Leader}* - Exploring Extended Reality for Aphantasics.
+**2026-2027** [UoM/KTH/SU Seed Fund](https://www.su.se/english/research/research-catalogue/research-projects/9/exploring-extended-reality-for-aphantasics) 180KSEK *{Project Leader}* - Exploring Extended Reality for Aphantasics.
 
-**2026** [Grant for quality development of education] 290KSEK *{Project member}* - Virtuella patienter och en virtuell utbildningsklinik: förutsättningar för träning och examination av kliniska färdigheter hos framtidens psykologer
+**2026** [Grant for quality development of education]() 290KSEK *{Project member}* - Virtuella patienter och en virtuell utbildningsklinik: förutsättningar för träning och examination av kliniska färdigheter hos framtidens psykologer
 
 **2023-2026** [Wallenberg Foundation](https://maw.wallenberg.org/) 4.5MSEK *{Project Member}* Let us talk about non-verbal communication: Investigation of interpersonal psychotherapeutic interactions and their effect on treatment outcomes using AI and time series analysis.
 
